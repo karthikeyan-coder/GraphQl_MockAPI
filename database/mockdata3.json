@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "10.05",
+        "Allow": 10,
+        "Block": 40,
+        "Audit": 60,
+        "File":5,
+        "Process":6,
+        "Protocols":8
+    },
+    {
+        "Name": "10.10",
+        "Allow": 23,
+        "Block": 44,
+        "Audit": 89,
+        "File":15,
+        "Process":56,
+        "Protocols":68
+    },
+    {
+        "Name": "10.15",
+        "Allow": 56,
+        "Block": 65,
+        "Audit": 98,
+        "File":34,
+        "Process":76,
+        "Protocols":83
+    },
+    {
+        "Name": "10.20",
+        "Allow": 33,
+        "Block": 56,
+        "Audit": 87,
+        "File":39,
+        "Process":66,
+        "Protocols":88
+    },
+    {
+        "Name": "10.25",
+        "Allow": 70,
+        "Block": 89,
+        "Audit": 45,
+        "File":95,
+        "Process":46,
+        "Protocols":38
+    },
+    {
+        "Name": "10.30",
+        "Allow": 74,
+        "Block": 83,
+        "Audit": 66,
+        "File":55,
+        "Process":86,
+        "Protocols":48
+    },
+    {
+        "Name": "10.35",
+        "Allow": 37,
+        "Block": 76,
+        "Audit": 94,
+        "File":55,
+        "Process":86,
+        "Protocols":98
+    },
+    {
+        "Name": "10.45",
+        "Allow": 53,
+        "Block": 76,
+        "Audit": 66,
+        "File":98,
+        "Process":33,
+        "Protocols":17
+    },
+    {
+        "Name": "10.50",
+        "Allow": 33,
+        "Block": 77,
+        "Audit": 86,
+        "File":81,
+        "Process":93,
+        "Protocols":38
+    },
+    {
+        "Name": "10.55",
+        "Allow": 44,
+        "Block": 65,
+        "Audit": 44,
+        "File":35,
+        "Process":76,
+        "Protocols":76
+    },
+    {
+        "Name": "11.05",
+        "Allow": 43,
+        "Block": 76,
+        "Audit": 98,
+        "File":43,
+        "Process":44,
+        "Protocols":76
+    }
+]
